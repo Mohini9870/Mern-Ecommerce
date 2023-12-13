@@ -2,11 +2,6 @@
 
 # Code_with_Mohini MERN Stack E-commerce Project - Frontend Repository
 
-
-MERN E-Commerce (in Hindi) with Admin Panel, Redux Toolkit, Stripe Payment, Cloud Deployment, Email Invoice, and many features (complete features given below in Description )
-
-
-
 🔥 Features :
 
 - Basic E-commerce Features- Product lists, Product Details, Cart, Checkout
